@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Bonjour!! <a href="https://emoji.gg/emoji/4193_Kirbyhappy"><img src="https://emoji.gg/assets/emoji/4193_Kirbyhappy.gif" width="64px" height="64px" alt="Kirbyhappy"></a></h1>
+
 
 <!--
 **snehasunilnair/snehasunilnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
