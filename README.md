@@ -35,10 +35,11 @@
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/vmware-workstation-player.png"/>
+<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img src="https://img.icons8.com/color/48/000000/red-hat.png"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/vmware-workstation-player.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
