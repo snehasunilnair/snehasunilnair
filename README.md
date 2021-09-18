@@ -52,7 +52,6 @@
 <br>
 
 
-<!- Social handles -->
 <h2 align="center">Reach me at <img src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="30px" height="30px" alt="Kirbyhappy"></a> </h2>
 <br>
 <p align="center">
