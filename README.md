@@ -58,7 +58,7 @@
 <a href="https://www.linkedin.com/in/snehasunilnair/" alt="LinkedIn"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40" /></a>
 <a href="https://www.instagram.com/snehasunilnair/" alt="Instagram"><img src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png" width="40" height="40" /></a>
 <a href="https://twitter.com/snehasunilnair9" alt="Twitter"><img src="https://img.icons8.com/color/48/000000/twitter.png"  width="40" height="40" /></a>
-<a href="snehasunilnair14@gmail.com" alt="gmail"><img src="https://img.icons8.com/color/64/000000/gmail.png"  width="40" height="40" /></a>
+<a href="mailto:snehasunilnair14@gmail.com" alt="gmail"><img src="https://img.icons8.com/color/64/000000/gmail.png"  width="40" height="40" /></a>
 </p>
 <br>
 
