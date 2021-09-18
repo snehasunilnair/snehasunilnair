@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 <p align="center">
   <em>
     Bienvenue! I am a 3rd year undergraduate from <b>SRM Institute of Science and Technology, Kattankulathur, Chennai</b><br>
-    A budding <b>Full-Stack Web Developer</b> who loves contributing to <b>open source</b> <img src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306" width="20" /><br>
+    A budding <b>Full-Stack Web Developer</b> who loves contributing to <b>Open Source</b> <img src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306" width="20" /><br>
     A <b>Cyber Security </b> enthusiast and a <b>CCNA</b> aspirant..! <br>
-    I love <b>coding </b> <img src ="https://emojis.slackmojis.com/emojis/images/1617668603/27681/script_code.gif?1617668603" width ="20" /> and cracking <b>lame jokes </b> <img src ="https://emojis.slackmojis.com/emojis/images/1620256979/36225/mew_laugh.gif?1620256979" width ="20" /> <br>
+    I love <b>Coding </b> <img src ="https://emojis.slackmojis.com/emojis/images/1617668603/27681/script_code.gif?1617668603" width ="20" /> and cracking <b>Lame jokes </b> <img src ="https://emojis.slackmojis.com/emojis/images/1620256979/36225/mew_laugh.gif?1620256979" width ="20" /> <br>
     <b>Merci Beaucoup </b> <img src ="https://emojis.slackmojis.com/emojis/images/1612848105/12408/meow_fat.gif?1612848105" width="20"/>
      
   </em> 
   </p>
   <br>
-  <div>
+  
+  
   <h2 align="center"> Github Stats ✨ </h2>
 <br>
-<div>
   <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -38,8 +38,28 @@ Here are some ideas to get you started:
     <a href="https://github.com/snehasunilnair/github-readme-stats" title="Go to Source">
       <img align="right" width=340  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasunilnair&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
+  
   </div>
 </p>
+<br><br><br><br><br><br><br><br><br>
+<h2 align="center">Tools | Technologies | Languages </h2>
+<p align="center">
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/vmware-workstation-player.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/color/48/000000/red-hat.png"/>
+<img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+
 
 
