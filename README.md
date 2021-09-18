@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <em>
+    Bienvenue! I am a 3rd year undergraduate from <b>SRM Institute of Science and Technology, Kattankulathur, Chennai</b><br>
+    A budding <b>Full-Stack Web Developer</b> who loves contributing to <b>open source</b> <img src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306" width="20" /><br>
+    A <b>Cyber Security </b> enthusiast and a <b>CCNA</b> aspirant..! <br>
+    I love <b>coding </b> <img src ="https://emojis.slackmojis.com/emojis/images/1617668603/27681/script_code.gif?1617668603" width ="20" /> and cracking <b>lame jokes </b> <img src ="https://emojis.slackmojis.com/emojis/images/1620256979/36225/mew_laugh.gif?1620256979" width ="20" /> <br>
+    <b>Merci Beaucoup </b> <img src ="https://emojis.slackmojis.com/emojis/images/1612848105/12408/meow_fat.gif?1612848105" width="20"/>
+     
+  </em> 
+  </p>
