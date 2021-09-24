@@ -62,11 +62,11 @@
 </p>
 <br>
 
-
+<!-- spotify
 <p align="Center">
 [![Spotify](https://spotify-sneha.vercel.app/api/spotify)](https://open.spotify.com/user/tu8k1cb097p5uoki4k44xeyom)
 </p>
-
+-->
 
 
 <p align="Center">
