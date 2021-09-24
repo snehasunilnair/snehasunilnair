@@ -64,7 +64,7 @@
 
 
 <p align="Center">
-  [<img src="https://novatorem-snehasunilnair.vercel.app/api/spotify" alt="spotify now playing" width="350" />](https://open.spotify.com/user/tu8k1cb097p5uoki4k44xeyom)
+  [![Spotify](https://novatorem-snehasunilnair.vercel.app/api/spotify)](https://open.spotify.com/user/tu8k1cb097p5uoki4k44xeyom)
 </p>
 
 
